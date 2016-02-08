@@ -1,2 +1,8 @@
 todo.txt
 node_modules
+windows-publisher/publisher/bin
+windows-publisher/publisher/obj
+windows-publisher/publisher/packages
+windows-publisher/app/bin
+windows-publisher/app/obj
+windows-publisher/packages/
